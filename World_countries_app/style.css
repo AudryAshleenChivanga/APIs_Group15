@@ -1,5 +1,5 @@
 @import url("https://fonts.google.com/specimen/Nunito+Sans");
-
+/* This is applied to all of the webpage*/ 
 *{
     margin: 0;
     padding: 0;
@@ -12,6 +12,8 @@ body{
     --fontColor:hsl(200, 15%, 8%);
     font-family:"Nunito Sans"sans-serif;
 }
+/*The --bgColor and --fontColor will aid you in typing the background colour and fontColor so that you shouldn't repeat things over and over again */ 
+
 .dark{
     --bgColor:hsl(200, 15%, 8%);
     --fontColor:hsl(0, 0%, 98%);
