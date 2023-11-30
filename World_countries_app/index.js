@@ -6,6 +6,7 @@ const search = document.querySelector(".search")
 const toggle = document.querySelector(".toggle")
 const moon = document.querySelector(".moon")
 async function getCountry() {
+    //this is where APIs is inserted
     const url = await fetch("https://restcountries.com/v3.1/all")
     const res = await url.json();
     console.log(res);
@@ -62,3 +63,4 @@ toggle.addEventListener("click", () => {
     document.body.classList.toggle("dark")
     moon.classList.toggle("fas")
 })
+//The above codes are our javascript please don't change any without any agreement from the group members thanks
