@@ -1,7 +1,6 @@
-To be edited
+# Web_API
+As group 15, We have decided to develop a user-friendly web application designed to enhance global knowledge and promote tourism by providing comprehensive information about countries worldwide called World Countries App.
 
-This is group 15's API work. We have decided to develop a user-friendly web application designed to enhance global knowledge and promote tourism by providing comprehensive information about countries worldwide called World Countries App. Below you can find a demo on how the app works.
-
-
-
-
+# DEMO-Video:
+This is demo video explaining how this web application works.
+[![Demo Video](https://img.youtube.com/vi/EF6fqnnl3Uk/maxresdefault.jpg)](https://www.youtube.com/watch?v=EF6fqnnl3Uk)
