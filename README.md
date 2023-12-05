@@ -3,4 +3,4 @@ As group 15, We have decided to develop a user-friendly web application designed
 
 # DEMO-Video:
 This is demo video explaining how this web application works.
-[![Demo Video](https://img.youtube.com/vi/EF6fqnnl3Uk/maxresdefault.jpg)](https://www.youtube.com/watch?v=EF6fqnnl3Uk)
+[![Demo Video](https://img.youtube.com/vi/CZenIDDG_ag/maxresdefault.jpg)](https://www.youtube.com/watch?v=CZenIDDG_ag)
