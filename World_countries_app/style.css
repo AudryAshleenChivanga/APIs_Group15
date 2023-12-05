@@ -11,6 +11,7 @@
 }
 /*The --bg color will help in reducing the effor used in typing the rgb of the color */ 
 body{
+    display: flex;
     width: 100%;
     min-height: 100vh;
     --bgColor:hsl(0, 0%, 98%);

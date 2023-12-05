@@ -63,4 +63,4 @@ toggle.addEventListener("click", () => {
     document.body.classList.toggle("dark")
     moon.classList.toggle("fas")
 })
-/*The above codes are our javascript please don't change any without any agreement from the group members thanks*/
+//The above codes are our javascript please don't change any without any agreement from the group members thanks
